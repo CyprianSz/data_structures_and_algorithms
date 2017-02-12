@@ -1,3 +1,4 @@
+#https://github.com/PiotrAleksander/Ruby/blob/master/goniec.rb
 class Node
 	attr_accessor :value, :parent, :left, :right
 
