@@ -56,5 +56,3 @@ class KnightMoves
 		path.each { |move| print "#{move}\n" }
 	end
 end
-
-test1 = KnightMoves.new([1,2],[6,7])
